@@ -1,8 +1,9 @@
 #!python3
 
 def sum(a,b):
-    c = round(a+b, 1)
-    return c
+    x = a + b
+    x = round(x, 1)
+    return x
 
 
 if __name__ == "__main__":
